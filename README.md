@@ -11,4 +11,4 @@ It's simple, just run `npm run test` (or `npm run start` if you want it to be av
 ## Making a production build
 1. Build the website with `npm run build`
 2. Make sure to put the `menu.json` file inside the `dist` folder created
-3. Put the dist folder on a webserver, start it up and it should be available. (Make sure the menu.json is inside the same folder as index.js!)
+3. Put the dist folder on a webserver, start it up and it should be available. (Make sure the menu.json is inside the same folder as index.html!)
