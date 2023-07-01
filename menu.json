@@ -1,0 +1,34 @@
+{
+    "title": "Menu Demo",
+    "header": "Menu Demo",
+    "footer": "This is just a demo menu",
+    "copyright": "demo ",
+    "social-media": {
+        "instagram": "https://www.instagram.com/",
+        "facebook": "https://www.facebook.com/",
+        "twitter": "https://twitter.com/",
+        "youtube": "https://youtube.com"
+    },
+    "menu-items": {
+        "demo category 1": {
+            "1": {
+                "name": "demo 1",
+                "description": "a demo menu item",
+                "image": "",
+                "price": "$20.0 (demo price)"
+            },
+            "2": {
+                "name": "demo 2",
+                "description": "another demo menu item",
+                "image": "",
+                "price": "$20.0 (demo price)"
+            }
+        }
+    },
+    "maps": {
+        "Google Maps": "https://www.google.com/maps/"
+    },
+    "take-out": {
+        "demo takeout url": "https://example.com/exampleTakeoutUrl"
+    }
+}
